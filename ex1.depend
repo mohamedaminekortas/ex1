@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1433434723 source:c:\users\kortas\desktop\workspace c\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+
